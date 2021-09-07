@@ -25,3 +25,15 @@ Bangalore **IT highway** is wonderful road to drive.
 * Clothes
 
 **[assignment2-bobbala](AboutMe.md)**
+
+---
+
+Mooyah is one of the place where one can find Burgers, Fries and Shakes. Here are the some of the items described below.
+
+# Mooyah Menu
+| Item | Location | Price|
+| --- | --- | --- |
+| Vegan Burger | Mooyah | $6.50 |
+| Fries | Mooyah | $2.49 |
+| shakes | Mooyah | $4.19 |
+| Drinks | Mooyah | $2.50 |
