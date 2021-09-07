@@ -14,3 +14,12 @@ Bangalore **IT highway** is wonderful road to drive.
 1. There are different mode of transports from Maryville to Chicago. Here I choose by road and plane.
 2. Book a cab from Maryville to Kansas city, then from Kansas plan a journey through plane to chicago.
 3. After reaching Chicago take a cab and explore downtown.
+
+---
+
+# Items for maximum enjoyment
+
+* Money
+* Food
+* Camera for capturing pictures
+* Clothes
