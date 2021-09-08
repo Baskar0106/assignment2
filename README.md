@@ -11,9 +11,10 @@ Bangalore **IT highway** is wonderful road to drive.
 
 # Directions from Maryville to Chicago
 
-1. There are different mode of transports from Maryville to Chicago. Here I choose by road and plane.
-2. Book a cab from Maryville to Kansas city, then from Kansas plan a journey through plane to chicago.
-3. After reaching Chicago take a cab and explore downtown.
+1. The drive from Maryville to Chicago is around eight hours.
+2. From Maryville to Chicago we have to pass through Iowa.
+3. After reaching Iowa we reach our destination Chicago
+   * Meanwhile in between Iowa and Chicago we pass through Iowa city and Naperville.
 
 # Items for maximum enjoyment
 
