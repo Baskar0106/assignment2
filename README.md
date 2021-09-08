@@ -14,7 +14,7 @@ Bangalore **IT highway** is wonderful road to drive.
 1. The drive from Maryville to Chicago is around eight hours.
 2. From Maryville to Chicago we have to pass through Iowa.
 3. After reaching Iowa we reach our destination Chicago
-   * Meanwhile in between Iowa and Chicago we pass through Iowa city and Naperville.
+   1. Meanwhile in between Iowa and Chicago we pass through Iowa city and Naperville.
 
 # Items for maximum enjoyment
 
